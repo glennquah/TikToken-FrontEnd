@@ -1,5 +1,4 @@
 # TikToken: Bridging the Gap Between Content and Commerce
----
 Submission for TikTok Hachakton : E-Commerce 2023
 
 ## Inspiration
