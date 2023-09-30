@@ -16,7 +16,7 @@ Tiktoken Backend API: https://github.com/glennquah/TikToken-BackEnd
 ## App Setup
 
 ```
-git clone https://github.com/ryantangmj/tiktok-clone.git
+git clone https://github.com/glennquah/TikToken-BackEnd.git
 
 npm i
 
