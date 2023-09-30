@@ -11,7 +11,7 @@ Devpost Link: https://devpost.com/software/tiktoken-tcqhao
 
 ### For this Tiktok Clone to work you'll need the API/Backend:
 
-Tiktok Clone API: https://github.com/ryantangmj/tiktok-clone-api.git
+Tiktoken Backend API: https://github.com/glennquah/TikToken-BackEnd
 
 ## App Setup
 
