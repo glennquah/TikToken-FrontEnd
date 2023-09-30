@@ -1,4 +1,6 @@
-# TikToken: Bridging the Gap Between Content and Commerce (Submission for TikTok Hachakton : E-Commerce 2023)
+# TikToken: Bridging the Gap Between Content and Commerce
+---
+Submission for TikTok Hachakton : E-Commerce 2023
 
 ## Inspiration
 In the era of digital convergence, we noticed a substantial gap between content creation and eCommerce on platforms like TikTok. While users were showcasing products and influencing purchasing decisions, there was no seamless way to bridge the viewer's journey from watching a video to making a purchase. We envisioned a platform where engagement wasn't just a metric of popularity but also a currency of value.
